@@ -1,16 +1,7 @@
 # mock_machine_coding_practise
+Project to get hands-on practice with Bloc State Management.
 
-A new Flutter project.
 
-## Getting Started
+<img width="364" height="756" alt="Screenshot 2025-11-25 at 2 02 13 AM" src="https://github.com/user-attachments/assets/caae348b-0e19-4a0d-93a8-209ac5325d71" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="367" height="770" alt="Screenshot 2025-11-25 at 2 02 32 AM" src="https://github.com/user-attachments/assets/954f96a5-b8ee-4ee4-929c-8e155033768f" />
